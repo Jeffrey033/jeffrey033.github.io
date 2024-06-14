@@ -1,1 +1,1 @@
-Dit is mijn portfolio website.
+This is my portfolio website. Hosted with GitHub Pages.
