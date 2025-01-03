@@ -1,4 +1,4 @@
-#Functioneel beheerder
+# Functioneel beheerder
 
 ### Werkervaring
 Applicatiebeheerder @ Gemeente Nijkerk
