@@ -1,7 +1,4 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-
 title: Jeffrey van de Kamp
 description: Portfolio website van Jeffrey van de Kamp
 show_downloads: true
+theme: jekyll-theme-minimal
