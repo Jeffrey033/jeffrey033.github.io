@@ -16,9 +16,13 @@ h1 {
 img {
     max-width: 75%;
     border-radius: 50%;
-    border: 5px solid black;
+    border: 5px solid #222;
 }
 
 h1#curriculum-vitae {
     margin-top: 20px;
+}
+
+small {
+    display: none;
 }
