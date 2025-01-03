@@ -1,4 +1,4 @@
-# Functioneel beheerder
+# Curriculum vitae
 
 ### Werkervaring
 Applicatiebeheerder @ Gemeente Nijkerk
