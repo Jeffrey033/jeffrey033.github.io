@@ -2,7 +2,9 @@
 
 ### Ervaring
 Applicatiebeheerder @ Gemeente Nijkerk
-- Verantwoordelijk voor...
+Finance Consultant @ Quoratio/Verhoeve (nu Fitz)
+Financieel medewerker @ Postillion Hotels
+Medewerker crediteuren @ Hampshire Hotels
 
 ### Opleiding
 Moderne bedrijfsadministratie (MBA)
