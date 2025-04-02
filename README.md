@@ -2,7 +2,7 @@
 
 ### Ervaring
 - Applicatiebeheerder @ Gemeente Nijkerk
-- Finance Consultant @ Quoratio/Verhoeve (nu Fitz)
+- Consultant ERP @ Quoratio/Verhoeve (nu Fitz)
 - Financieel medewerker @ Postillion Hotels
 - Medewerker crediteuren @ Hampshire Hotels
 
