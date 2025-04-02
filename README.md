@@ -1,8 +1,8 @@
 # Curriculum vitae
 
 ### Ervaring
-- Applicatiebeheerder @ Gemeente Nijkerk
-- Consultant ERP @ Quoratio/Verhoeve (nu Fitz)
+- Functioneel beheerder @ Gemeente Nijkerk
+- AFAS ERP Consultant @ Quoratio/Verhoeve (nu Fitz)
 - Financieel medewerker @ Postillion Hotels
 - Medewerker crediteuren @ Hampshire Hotels
 
