@@ -24,3 +24,6 @@ jobs:
           git add posts.json
           git commit -m "update posts" || echo "no changes"
           git push
+
+name: Generate RSS
+run: python generate_rss.py
