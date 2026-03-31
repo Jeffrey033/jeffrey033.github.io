@@ -1,0 +1,26 @@
+name: Update site
+
+on:
+  issues:
+    types: [opened, edited]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install
+        run: pip install requests
+
+      - name: Generate posts
+        run: python generate_posts.py
+
+      - name: Commit
+        run: |
+          git config --global user.name "bot"
+          git config --global user.email "bot@github.com"
+          git add posts.json
+          git commit -m "update posts" || echo "no changes"
+          git push
