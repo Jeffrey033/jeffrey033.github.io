@@ -1,0 +1,19 @@
+name: Nieuw bericht
+description: Voeg een update toe
+title: ""
+labels: ["bericht"]
+
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Titel
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Bericht
+    validations:
+      required: true
